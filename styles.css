@@ -1,0 +1,21 @@
+body	{background-color:deepskyblue}
+
+h1		{font-family: arial;
+		font-size:30;
+		color:ghostwhite;
+		text-align: center;}
+h2
+        {font-family: arial;
+		font-size:30;
+		color:ghostwhite;
+		text-align: center;}
+h3		{font-family: arial;
+		font-size:15;
+		color:ghostwhite;
+		text-align: center;}
+
+a:link {color:yellow;}
+a:visited {color:pink;}
+
+table {color:white;}
+
